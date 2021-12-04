@@ -1,4 +1,4 @@
-# Breakout-Ball-Game
+# Java-Game
 
 A project for IT214 course,presented to instructor MS.Meshaiel Alsheail
 
