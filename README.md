@@ -7,3 +7,11 @@ Brick Breaker game consists of bricks aligned at the top of the screen. The play
 
 ## Reference
 [Youtube video](https://www.youtube.com/watch?v=gPiahyf70ds)
+
+
+## output 
+<img width="697" alt="Screen Shot 1443-05-01 at 4 17 59 PM" src="https://user-images.githubusercontent.com/71889043/144748329-46e8c7b4-d0a2-4c4d-8e6b-274037b7d0ad.png">
+
+<img width="700" alt="Screen Shot 1443-05-01 at 4 18 17 PM" src="https://user-images.githubusercontent.com/71889043/144748337-282d97cc-702f-47b8-b1ee-ea8017bad574.png">
+
+<img width="700" alt="Screen Shot 1443-05-01 at 4 20 21 PM" src="https://user-images.githubusercontent.com/71889043/144748339-0e34b217-a388-4afd-9846-a9afeb7e246d.png">
